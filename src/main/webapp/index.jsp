@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>tom and jerry checking</h2>
+<h2>tom and jerry</h2>
 </body>
 </html>
